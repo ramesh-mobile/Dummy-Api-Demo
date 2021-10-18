@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DummyApiDemo</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="error_to_fetch">Error to fetch/refresh data</string>
+    <string name="no_internet_msg">No Internet Connection</string>
+</resources>
